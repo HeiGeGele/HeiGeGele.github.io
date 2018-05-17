@@ -1,3 +1,4 @@
 User-agent: *
+Disallow: 
 
 Sitemap:https://HeiGeGele.github.io/sitemap.xml
